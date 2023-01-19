@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnjuPaul14
 - 👀 I’m interested in DataScience and Artificial Intelligence
-- 🌱 I’m currently learning Applied Data Science
+- 🌱 I’m a recent Applied Data Science graduate 
 
 <!---
 AnjuPaul14/AnjuPaul14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
